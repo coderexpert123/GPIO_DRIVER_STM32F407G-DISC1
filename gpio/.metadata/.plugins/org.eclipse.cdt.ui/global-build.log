@@ -1,0 +1,14 @@
+21:51:21 **** Incremental Build of configuration Debug for project stm32f ****
+make -j4 all 
+arm-none-eabi-size  stm32f.elf 
+   text	   data	    bss	    dec	    hex	filename
+   2248	      0	   1568	   3816	    ee8	stm32f.elf
+Finished building: default.size.stdout
+ 
+21:51:26 **** Incremental Build of configuration Debug for project stm32f ****
+make -j4 all 
+arm-none-eabi-size  stm32f.elf 
+   text	   data	    bss	    dec	    hex	filename
+   2248	      0	   1568	   3816	    ee8	stm32f.elf
+Finished building: default.size.stdout
+ 
